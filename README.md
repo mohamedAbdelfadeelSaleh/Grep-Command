@@ -75,6 +75,35 @@ A simplified version of the `grep` command with case-insensitive search and filt
 # Fawry Internship Project - SCenario 
 
 
+![Screenshot](screens/2.1.png)
+
+
+
+
+![Screenshot](screens/2.2.png)
+
+
+
+
+![Screenshot](screens/2.3.png)
+
+
+
+
+
+![Screenshot](screens/2.4.png)
+
+
+
+
+![Screenshot](screens/2.5.png)
+
+
+
+
+
+![Screenshot](screens/2,6.png)
+
 
 
 
