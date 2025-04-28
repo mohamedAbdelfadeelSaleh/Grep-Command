@@ -12,7 +12,7 @@ A simplified version of the `grep` command with case-insensitive search and filt
 
 1. Making the Script Executable
 
-
+![Screenshot 1](screens/1.png)
 
 2. Basic Case-Insensitive Search
 
