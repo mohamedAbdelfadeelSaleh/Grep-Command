@@ -19,7 +19,7 @@ A simplified version of the `grep` command with case-insensitive search and filt
 ### 2. Basic Case-Insensitive Search
 ![Screenshot](screens/2.png)
 
-Finds both "Hello" and "HELLO" (case-insensitive)
+#### Finds both "Hello" and "HELLO" (case-insensitive)
 
 
 
@@ -27,14 +27,14 @@ Finds both "Hello" and "HELLO" (case-insensitive)
 ### 3. Search with Line Numbers
 ![Screenshot](screens/3.png)
 
-Shows matching lines with their line numbers
+#### Shows matching lines with their line numbers
 
 
    
 ### 4. Inverted Match with Line Numbers
 ![Screenshot](screens/4.png)
 
-Shows lines that DON'T contain "hello" with line numbers
+#### Shows lines that DON'T contain "hello" with line numbers
 
 
 
@@ -42,7 +42,7 @@ Shows lines that DON'T contain "hello" with line numbers
 ### 5. Error Handling
 ![Screenshot](screens/5.png)
 
-Properly handles missing arguments
+#### Properly handles missing arguments
 
 
 
@@ -50,7 +50,7 @@ Properly handles missing arguments
 ### 6. Simple Inverted Search
 ![Screenshot](screens/6.png)
 
-Shows all lines that don't contain "hello"
+#### Shows all lines that don't contain "hello"
 
 
 
