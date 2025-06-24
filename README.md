@@ -1,4 +1,4 @@
-# Fawry Internship Project - Mini Grep Tool
+# Mini Grep Tool
 
 A simplified version of the `grep` command with case-insensitive search and filtering options.
 
